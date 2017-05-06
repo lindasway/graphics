@@ -1,0 +1,4 @@
+# graphics
+## Computer Graphics coursework
+
+To compile the extensions, add the glm folder, set the GLMDIR path, then simply run make extension, and  execute with ./build/rasteriser_ext
